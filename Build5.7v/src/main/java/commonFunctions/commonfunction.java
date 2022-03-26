@@ -23,6 +23,8 @@ public class commonfunction {
 
 //common extentreport
 //Github
+//Genkins
+	
 	
 	 public static ExtentReports extent;
 	  
