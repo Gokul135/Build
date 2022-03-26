@@ -21,8 +21,8 @@ import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 
 public class commonfunction {
 
-//common extentreport;
-	
+//common extentreport
+//Github
 	
 	 public static ExtentReports extent;
 	  
